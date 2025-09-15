@@ -9,4 +9,4 @@
       ![Enhypen](https://i.pinimg.com/1200x/34/e9/76/34e97686ee8620979ba6a5f7a98367a3.jpg)
 - 跳舞
 - 看vlog
-      !(<img width="1974" height="636" alt="螢幕擷取畫面 2025-09-15 204842" src="https://github.com/user-attachments/assets/fd50af30-2aba-4577-ab68-79dc4de026bd" />
+      <img width="1974" height="636" alt="螢幕擷取畫面 2025-09-15 204842" src="https://github.com/user-attachments/assets/fd50af30-2aba-4577-ab68-79dc4de026bd" />
